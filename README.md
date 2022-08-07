@@ -1,0 +1,2 @@
+# Multimodal_multioutput_classification
+Multimodal Semantic Representation project code
